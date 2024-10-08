@@ -1,6 +1,6 @@
 # DAQ_PMT_Analysis
 
-##Alpha Count Data Collection
+## Alpha Count Data Collection
 1. Connect the T-connector with a 50 ohm terminator to the oscilloscope as pictured below :
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f1867551-91c1-43d9-b4c4-5c79136496e1" width=50% height=50%>
